@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# Secrets / env
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Playwright MCP artifacts
+.playwright-mcp/
